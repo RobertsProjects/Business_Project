@@ -1,4 +1,4 @@
-# Business_Project
+# Business_Project_PostgreSQL
 Implemented membership system into business model
 
 In this project, I addressed the need for understanding and influencing customer spending behaviors by designing and implementing a data management system. 
